@@ -1,0 +1,14 @@
+.venv
+.vscode
+.env
+.dockerignore
+
+__pycache__
+*/__pycache__/*
+
+tests
+
+docker-compose.yml
+stack.yml
+Dockerfile 
+entrypoint.sh

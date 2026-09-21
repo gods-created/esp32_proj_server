@@ -1,0 +1,15 @@
+starlette
+fastapi
+pydantic
+httpx2
+
+python-dotenv
+faker
+loguru
+
+mongoengine
+
+uvicorn
+gunicorn
+
+# python -m pip install --no-cache-dir --upgrade -r requirements.txt 
